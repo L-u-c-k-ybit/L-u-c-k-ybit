@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @L-u-c-k-ybit
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning gamedevelopment using unity3D 
+- 🌱 I’m currently how not to become an NPC 
 - 📫 You can reach me at raktimbaruah938@gmail.com
 
 <!---
